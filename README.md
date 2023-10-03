@@ -14,4 +14,4 @@ In order to compare the effectiveness of existing pre-processing libraries for t
 
 • SE4''.ipynb: performing pre-processing using Hazm (with Stemming and removing stop words) (NTRS)  
 
-The report file compares the pre-processing methods in terms of Precision, Recall, F-measure, and MAP.
+The report file compares the impact of pre-processing methods on the system in terms of Precision, Recall, F-measure, and MAP.
