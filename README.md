@@ -1,6 +1,6 @@
 # persian-poems-Search-engine
 
-In this repository, Elasticearch is implemented on a collection of Persian poems collected by a team of Sharif University students from ganjoor.ir.
+In this repository, Elasticearch is implemented on a collection of Persian poems collected by a team of Sharif University students from ganjoor.ir. <br>
 In order to compare the effectiveness of existing pre-processing libraries for the Persian language, data pre-processing has been done using the two famous libraries of Hazm (https://github.com/roshan-research/hazm) and Parsivar (https://github.com/ICTRC/Parsivar).
  The files contain the following content:
 • SE1.ipynb: A search engine without any pre-processing (----)
