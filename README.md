@@ -8,10 +8,10 @@ In order to compare the effectiveness of existing pre-processing libraries for t
  
 • SE1.ipynb: A search engine without any pre-processing (----)  
 
-• SE4.ipynb: Perform pre-processing using Hazm (with Lemmatization and removing stop words) (NTRL)  
+• SE4.ipynb: Pre-processing using Hazm (with Lemmatization and removing stop words) (NTRL)  
 
-• SE4'.ipynb: perform pre-processing using Parsivar (with Lemmatization and removing stop words) (NTRL)  
+• SE4'.ipynb: Pre-processing using Parsivar (with Lemmatization and removing stop words) (NTRL)  
 
-• SE4''.ipynb: performing pre-processing using Hazm (with Stemming and removing stop words) (NTRS)  
+• SE4''.ipynb: Pre-processing using Hazm (with Stemming and removing stop words) (NTRS)  
 
 The report file compares the impact of pre-processing methods on the system in terms of Precision, Recall, F-measure, and MAP.
