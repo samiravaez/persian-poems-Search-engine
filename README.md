@@ -1,4 +1,4 @@
-# persian-poems-Search-engine
+# Persian-Poems-Search-Engine
 
 In this repository, Elasticearch is implemented on a collection of Persian poems collected by a team of Sharif University students from ganjoor.ir.   
 
